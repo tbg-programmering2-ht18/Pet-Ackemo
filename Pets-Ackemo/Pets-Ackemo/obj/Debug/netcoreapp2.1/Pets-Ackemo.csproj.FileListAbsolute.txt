@@ -1,0 +1,11 @@
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.deps.json
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.runtimeconfig.json
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.runtimeconfig.dev.json
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.dll
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.pdb
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.csprojAssemblyReference.cache
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.csproj.CoreCompileInputs.cache
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.AssemblyInfoInputs.cache
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.AssemblyInfo.cs
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.dll
+C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.pdb
