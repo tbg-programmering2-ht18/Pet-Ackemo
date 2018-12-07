@@ -9,3 +9,14 @@ C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\P
 C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.AssemblyInfo.cs
 C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.dll
 C:\Users\willacke\source\repos\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.pdb
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.deps.json
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.runtimeconfig.json
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.runtimeconfig.dev.json
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.dll
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\bin\Debug\netcoreapp2.1\Pets-Ackemo.pdb
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.csprojAssemblyReference.cache
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.csproj.CoreCompileInputs.cache
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.AssemblyInfoInputs.cache
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.AssemblyInfo.cs
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.dll
+C:\Users\William Ackemo\Google Drive\Programering\Visual studio\Skolla\Pet-Ackemo\Pets-Ackemo\Pets-Ackemo\obj\Debug\netcoreapp2.1\Pets-Ackemo.pdb

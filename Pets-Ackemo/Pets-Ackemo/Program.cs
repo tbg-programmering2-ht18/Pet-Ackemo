@@ -1,28 +1,41 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Pets_Ackemo
+namespace Pets
 {
     class Program
     {
-        public static List<Pet> PetList = new List<Pet>();
+        static List<Animal> animals = new List<Animal>();
+        private static readonly Random getrandom = new Random();
 
         static void Main(string[] args)
         {
-            Console.WriteLine("WE GOT PETS! LOOK AT THEM");
+            // This list adds new objects to the class Animal, more exactly adds the "name" value (string) to the "child" class inside
+            // animal class.
+            animals.Add(new Cat("Bosse"));
+            animals.Add(new Dog("Petsson"));
+            animals.Add(new Bird("Gullan"));
 
-            Console.WriteLine("");
-            
-            Console.ReadKey();
+            Console.WriteLine(@"This is a animal tester, see what spirit animal you have!
+            Press any key to see what you are! (esc. ends it all)");
 
-        }
 
-        public static void AddPet()
-        {
-            string name = Console.ReadLine();
-            Pet pet = new Pet();
-            pet.name = name;
-            PetList.Add(pet);
+
+            // Each time a button except esc is pressed, the console will continue to show random animals, no specific order.
+            // If esc is pressed, the console app will shut down.
+            ConsoleKey ck = Console.ReadKey().Key;
+            while (ck != ConsoleKey.Escape)
+            {
+                int x = getrandom.Next(0, animals.Count - 1);
+                Console.WriteLine("\nYour spirit animal is...");
+                Console.WriteLine(animals[x].Show());
+                Console.WriteLine("Press ESC to quit or any key to : \n");
+                ck = Console.ReadKey().Key;
+
+            }
         }
     }
 }
