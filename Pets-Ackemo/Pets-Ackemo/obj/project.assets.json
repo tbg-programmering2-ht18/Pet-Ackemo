@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willacke\\source\\repos\\Pets-Ackemo\\Pets-Ackemo\\Pets-Ackemo.csproj",
+      "projectUniqueName": "C:\\Users\\willacke\\source\\repos\\Pet-Ackemo\\Pets-Ackemo\\Pets-Ackemo\\Pets-Ackemo.csproj",
       "projectName": "Pets-Ackemo",
-      "projectPath": "C:\\Users\\willacke\\source\\repos\\Pets-Ackemo\\Pets-Ackemo\\Pets-Ackemo.csproj",
+      "projectPath": "C:\\Users\\willacke\\source\\repos\\Pet-Ackemo\\Pets-Ackemo\\Pets-Ackemo\\Pets-Ackemo.csproj",
       "packagesPath": "C:\\Users\\willacke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willacke\\source\\repos\\Pets-Ackemo\\Pets-Ackemo\\obj\\",
+      "outputPath": "C:\\Users\\willacke\\source\\repos\\Pet-Ackemo\\Pets-Ackemo\\Pets-Ackemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
